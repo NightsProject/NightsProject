@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! <br><br>I am a BSCS Student in MSUIIT. Super Interested in Cybersecurity.
+Hi! <br><br>I am a BSCS Student in MSUIIT. Interested in Cybersecurity.
 
 
 ## 🌐 Socials:
