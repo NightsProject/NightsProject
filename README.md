@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/NightsProject/count.svg" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=NightsProject&style=flat-square&color=blue" alt="Visitor Count" />
 </p>
 
 <p align="center"><i>Proudly crafted with ❤️</i></p>
