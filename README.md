@@ -34,7 +34,7 @@
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=NightsProject&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://profile-counter.glitch.me/NightsProject/count.svg" alt="Visitor Count" />
 </p>
 
 <p align="center"><i>Proudly crafted with ❤️</i></p>
